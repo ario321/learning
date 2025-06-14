@@ -1,3 +1,3 @@
 # learning
-This my first repository
+This my first repository.
 Author - Aritra 
